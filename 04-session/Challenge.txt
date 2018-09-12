@@ -1,0 +1,5 @@
+Agregar la foto, la compañia y el nombre de la persona en una lista visual para el usuario usando un formulario.
+
+Utilice el codigo base que se en el challenge.
+
+La solución del challenge se encuentra en la carpeta de ejemplos.
